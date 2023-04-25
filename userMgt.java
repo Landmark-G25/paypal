@@ -4,4 +4,3 @@ dominion
 ayo
 obi
 manager
-dougoutigui
